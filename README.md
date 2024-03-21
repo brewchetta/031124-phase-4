@@ -42,7 +42,7 @@ Before each lecture, navigate to the proper repository and run your normal fork 
 
 ### Day Two
 
-[Flask Auth](#)
+[Flask Auth](https://github.com/brewchetta/031124-ph4-06-flask-auth)
 
 ## Week Three
 

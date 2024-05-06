@@ -16,15 +16,15 @@ Before each lecture, navigate to the proper repository and run your normal fork 
 
 ### Day One
 
-[React Refresher](https://github.com/brewchetta/031124-ph4-02-react-refresher)
+[Flask Restful Routing](https://github.com/brewchetta/031124-ph4-03-flask-restful-routing)
 
 ### Day Two
 
-[Flask Restful Routing](https://github.com/brewchetta/031124-ph4-03-flask-restful-routing)
+[Flask Routing Review + React](https://github.com/brewchetta/031124-ph4-04-flask-routing-review)
 
 ### Day Three
 
-[Flask Routing Review + React](https://github.com/brewchetta/031124-ph4-04-flask-routing-review)
+[SQLAlchemy Relationships](https://github.com/brewchetta/0311124-ph3-10-sqlalchemy-relationships)
 
 ### Day Four
 
